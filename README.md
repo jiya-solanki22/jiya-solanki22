@@ -15,7 +15,7 @@
 <a href="https://instagram.com/https://instagram.com/_jiyasolanki?utm_source=qr&igshid=mznlngnkzwq4mg%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/_jiyasolanki?utm_source=qr&igshid=mznlngnkzwq4mg%3d%3d" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/jiyasolanki2208/https://auth.geeksforgeeks.org/user/jiyasolanki2208/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="jiyasolanki2208/https://auth.geeksforgeeks.org/user/jiyasolanki2208/practice" height="30" width="40" /></a>
 </p>
-<p align="center"><img src="girl.gif" height="40%" width="55%"></p>
+<p align="center"><img src="[girl.gif](https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif)" height="40%" width="55%"></p>
 <p align="center"><a href="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif"></a></p>
 
 <h3 align="left">Languages and Tools:</h3>
