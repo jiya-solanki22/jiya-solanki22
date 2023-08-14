@@ -15,7 +15,8 @@
 <a href="https://instagram.com/https://instagram.com/_jiyasolanki?utm_source=qr&igshid=mznlngnkzwq4mg%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/_jiyasolanki?utm_source=qr&igshid=mznlngnkzwq4mg%3d%3d" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/jiyasolanki2208/https://auth.geeksforgeeks.org/user/jiyasolanki2208/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="jiyasolanki2208/https://auth.geeksforgeeks.org/user/jiyasolanki2208/practice" height="30" width="40" /></a>
 </p>
-<p align="center">https://github.com/jiya-solanki22/jiya-solanki22/assets/88366361/b148d7fb-5535-4a1d-9eda-697378594b32</p>
+
+![github](https://github.com/jiya-solanki22/jiya-solanki22/assets/88366361/d528da79-9469-4d57-83e2-a4a41733b101)
 
 
 <h3 align="left">Languages and Tools:</h3>
