@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently persuing **B.Tech Computer Science and Engineering**
 
+- 🤝 I'm looking for a **role of Software Engineer**
+
 - 📫 How to reach me **jiyasolanki1305@gmail.com**
 
 - 📄 Know about my experiences [https://in.docworkspace.com/d/sIPivnonbAZeO56YG](https://in.docworkspace.com/d/sIPivnonbAZeO56YG)
