@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jiya Solanki</h1>
-<h3 align="center">A programming enthusiast and a subject-oriented person</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jiya-solanki22&label=Profile%20views&color=0e75b6&style=flat" alt="jiya-solanki22" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jiya-solanki22" alt="jiya-solanki22" /></a> </p>
+<h3 align="center">Passionate Programmer, Subject Connoisseur, Knowledge Seeker.</h3>
 
 - 🌱 I’m currently persuing **B.Tech Computer Science and Engineering**
 
