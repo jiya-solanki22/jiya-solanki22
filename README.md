@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jiya-solanki-51a6541b6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jiya-solanki-51a6541b6/" height="30" width="40" /></a>&emsp;
-<a href="https://instagram.com/https://instagram.com/_jiyasolanki?utm_source=qr&igshid=mznlngnkzwq4mg%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/_jiyasolanki?utm_source=qr&igshid=mznlngnkzwq4mg%3d%3d" height="30" width="40" /></a>&emsp;
+<a href="https://instagram.com/_jiyasolanki?utm_source=qr&igshid=mznlngnkzwq4mg%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/_jiyasolanki?utm_source=qr&igshid=mznlngnkzwq4mg%3d%3d" height="30" width="40" /></a>&emsp;
 <a href="https://auth.geeksforgeeks.org/user/jiyasolanki2208/https://auth.geeksforgeeks.org/user/jiyasolanki2208/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="jiyasolanki2208/https://auth.geeksforgeeks.org/user/jiyasolanki2208/practice" height="30" width="40" /></a>
 </p>
 
