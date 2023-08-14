@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jiya Solanki</h1>
+<h1 align="center">Hello 🌍, I'm Jiya Solanki</h1>
 <h3 align="center">Passionate Programmer | Subject Connoisseur | Knowledge Seeker</h3>
 
 - 🌱 I’m currently persuing **B.Tech Computer Science and Engineering**
